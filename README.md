@@ -35,7 +35,7 @@ verify when the news images are successfully loaded on the screen
 verify the user is able to clicks one of the image
 verify if user is navigated to the external browser with clicked image loaded.
 
-Note: If neither of test fails a defect should be raised for the same.
+Note: If either of test fails a defect should be raised for the same.
 
 
 Example of raising a Bug:
